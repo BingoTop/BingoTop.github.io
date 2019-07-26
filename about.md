@@ -14,7 +14,7 @@ permalink: /about/
 
 
 ### My GitHub page
-[My GitHub Page](https://https://github.com/BingoTo)
+[My GitHub Page](https://github.com/BingoTo)
 
 ### Contact me
 
