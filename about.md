@@ -13,7 +13,7 @@ permalink: /about/
 Python 자동화 스크립트 짜는 것을 좋아하고 캐글에 관심이 있습니다.
 
 
-### My GitHub page
+
 [My GitHub Page](https://github.com/Bingotop)
 
 ### Contact me
