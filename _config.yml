@@ -14,6 +14,10 @@ avatar: https://github.com/BingoTop/Bingotop.github.io/blob/master/images/profil
 # Flags below are optional
 #
 
+category_list: [ Django, Algorithm,Python,ML,Cloud,Scrapy,Sql,Statistics,Etc ]
+
+
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
