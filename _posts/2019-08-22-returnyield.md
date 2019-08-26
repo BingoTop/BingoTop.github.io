@@ -61,5 +61,5 @@ next로 다음 값들을 출력할 수 있음을 알 수 있습니다.
 
 
 ---
-__참고__
+### __Reference__
 [파이썬 코딩도장](https://dojang.io/mod/page/view.php?id=2412)
