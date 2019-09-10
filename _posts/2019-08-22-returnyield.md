@@ -5,7 +5,6 @@ categories: Python
 comments: true
 ---
 
-# return과 yield를 비교해보자
 
 
 보통 함수들을 반환할 때 return을 자주 쓰는데요, return 말고도 강력한 메소드가 있습니다.
